@@ -1,0 +1,2 @@
+# ntt-story
+NTT-Story
